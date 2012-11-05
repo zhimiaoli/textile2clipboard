@@ -1,0 +1,7 @@
+[
+    {
+        "caption":"Copy Textile as HTML",
+        "command": "t2c",
+        "mnemonic": "tc"
+    }
+]
